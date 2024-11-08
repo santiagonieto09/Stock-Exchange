@@ -1,6 +1,6 @@
 ## Ingeniería de Software II 🚀
 
-Bienvenido al repositorio del Parcial Final de Ingeniería de Software II. Aquí encontrarás todos los recursos necesarios, desde archivos hasta documentación y diagramas.
+Bienvenido al repositorio del Proyecto final de Ingeniería de Software II. Aquí encontrarás todos los recursos necesarios, desde archivos hasta documentación y diagramas.
 
 ## Proyectos Incluidos 🛠️
 
