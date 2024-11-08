@@ -1,4 +1,4 @@
-# Parcial Final Ingeniería de Software II 🚀
+# Ingeniería de Software II 🚀
 
 Bienvenido al repositorio del Parcial Final de Ingeniería de Software II. Aquí encontrarás todos los recursos necesarios, desde archivos hasta documentación y diagramas.
 
