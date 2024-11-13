@@ -31,7 +31,7 @@ Bienvenido al repositorio del Proyecto final de Ingeniería de Software II. Aqu�
 👧 **Ledy Mayerly Astudillo Calderon**
 - Correo Institucional: [lmastudillo@unicauca.edu.co](lmastudillo@unicauca.edu.co)
   
-🙋‍♂️ **Santiago Nieto Guaca**
+🙋‍♂️ **Santiago Nieto**
 - Correo Institucional: [santiagonietu@unicauca.edu.co](santiagonietu@unicauca.edu.co)
   
 🙎‍♂️ **Harold Andrés Molano Rosero**
